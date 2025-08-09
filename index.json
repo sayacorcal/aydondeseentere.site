@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "piano-killer",
+    "title": "‘Piano Killer’ pone los cuerpos en el teclado",
+    "date": "2025-08-08",
+    "kicker": "Cine",
+    "excerpt": "El tráiler de terror que está sonando en todos lados…",
+    "image": "https://raw.githubusercontent.com/sayacorcal/aydondeseentere.site/main/imgs/piano-killer/cover.jpg",
+    "md": "https://raw.githubusercontent.com/sayacorcal/aydondeseentere.site/main/posts/piano-killer.md",
+    "tags": ["tráiler", "horror"],
+    "author": "Redacción",
+    "featured": true
+  },
+  {
+    "slug": "american-airlines-bano",
+    "title": "Pasajero expulsado tras incidente en el baño",
+    "date": "2025-08-07",
+    "kicker": "Viral",
+    "excerpt": "Discusión con una auxiliar de vuelo termina con el pasajero fuera del vuelo.",
+    "image": "https://raw.githubusercontent.com/sayacorcal/aydondeseentere.site/main/imgs/american-airlines-bano/cover.jpg",
+    "md": "https://raw.githubusercontent.com/sayacorcal/aydondeseentere.site/main/posts/american-airlines-bano.md",
+    "tags": ["aerolíneas"],
+    "author": "Redacción",
+    "featured": false
+  }
+]
